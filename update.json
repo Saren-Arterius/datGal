@@ -1,16 +1,16 @@
 {
   "normal": {
-    "version": "0.0.1b",
-    "description": "- (a) 新增: 顯示置頂貼文\n- (a) 修正: 搜尋功能\n- (a) 修正: 投票貼回覆無法正常顯示\n- (a) 修正: 只看會員回覆功能\n- (a) 修正: #oh# icon\n- (b) 新增: 回覆記錄\n- (b) 修正: 會員檔案功能\n- (b) 修正: 貼文引用關係",
-    "url": "https://github.com/Saren-Arterius/datGal/releases/download/0.0.1b/datGal-release.apk",
-    "pubdate": "2015-10-31",
+    "version": "0.0.1c",
+    "description": "唔想打",
+    "url": "https://play.google.com/store/apps/details?id=net.wtako.datgal",
+    "pubdate": "2015-11-01",
     "next_check_seconds": 36000
   },
   "beta": {
-    "version": "0.0.1b",
-    "description": "- (a) 新增: 顯示置頂貼文\n- (a) 修正: 搜尋功能\n- (a) 修正: 投票貼回覆無法正常顯示\n- (a) 修正: 只看會員回覆功能\n- (a) 修正: #oh# icon\n- (b) 新增: 回覆記錄\n- (b) 修正: 會員檔案功能\n- (b) 修正: 貼文引用關係",
-    "url": "https://github.com/Saren-Arterius/datGal/releases/download/0.0.1b/datGal-release.apk",
-    "pubdate": "2015-10-31",
+    "version": "0.0.1c",
+    "description": "唔想打",
+    "url": "https://play.google.com/store/apps/details?id=net.wtako.datgal",
+    "pubdate": "2015-11-01",
     "next_check_seconds": 10000
   },
   "ban_version_under": "0.0.1"
