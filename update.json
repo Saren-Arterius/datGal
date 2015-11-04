@@ -1,17 +1,17 @@
 {
   "normal": {
-    "version": "0.0.1c",
-    "description": "唔想打",
+    "version": "0.0.1d",
+    "description": "- (d) 新增: 一鍵留色\n- (d) 修正: ANR\n- (d) 修正: 搜尋、個人檔案\n- (d) 改善: 引用功能\n- (d) 其他小修正",
     "url": "https://play.google.com/store/apps/details?id=net.wtako.datgal",
-    "pubdate": "2015-11-01",
+    "pubdate": "2015-11-04",
     "next_check_seconds": 36000
   },
   "beta": {
-    "version": "0.0.1c",
-    "description": "唔想打",
+    "version": "0.0.1d",
+    "description": "- (d) 新增: 一鍵留色\n- (d) 修正: ANR\n- (d) 修正: 搜尋、個人檔案\n- (d) 改善: 引用功能\n- (d) 其他小修正",
     "url": "https://play.google.com/store/apps/details?id=net.wtako.datgal",
-    "pubdate": "2015-11-01",
+    "pubdate": "2015-11-04",
     "next_check_seconds": 10000
   },
-  "ban_version_under": "0.0.1"
+  "ban_version_under": "0.0.1d"
 }
